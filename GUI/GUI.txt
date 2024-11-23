@@ -1,0 +1,10 @@
+This folder is for GUI code
+
+TODO
+Make a good looking GUI for game
+Needed part
+1. Camera screen
+2. Dancer video screen
+3. Play button / Music select button
+4. Pose description(Image)
+5. Effect selection button

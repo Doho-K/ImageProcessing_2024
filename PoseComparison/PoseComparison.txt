@@ -1,0 +1,6 @@
+This folder is code for pose comparison
+
+TODO
+Make a function that compare dancer's pose and user's pose
+
+Compare only key features and return accuracy value between 0~100
